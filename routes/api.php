@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/info', function () {
     return response()->json([
         'email' => 'adewolenoah3@gmail.com',
         'current_datetime' => now()->toIso8601String(),

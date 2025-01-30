@@ -1,6 +1,6 @@
-## HNG12 Stage 0 Public API
+HNG12 Stage 0 Public API
 
-### Description
+Description
 
 This is a simple public API built for the HNG12 Stage 0 task. It returns basic information such as the registered email, current date and time (ISO 8601 format), and the GitHub URL of the project.
 
@@ -18,23 +18,7 @@ Installation Steps
 
 # Clone the repository
 
-git clone https://github.com/yourusername/your-repo.git
-
-# Navigate into the project directory
-
-cd your-repo
-
-# Install dependencies
-
-composer install
-
-# Start the Laravel development server
-
-php artisan serve
-
-# Clone the repository
-
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/adetola-dotbat/hng-stag-0
 
 # Navigate into the project directory
 
@@ -54,6 +38,8 @@ http://127.0.0.1:8000/api/info
 
 API Documentation
 
+Documentation link: https://documenter.getpostman.com/view/20742399/2sAYX2NQ8B
+
 Endpoint
 
 GET /api/info
@@ -61,21 +47,9 @@ GET /api/info
 Response Format (200 OK)
 
 {
-"email": "your-email@example.com",
+"email": "adewolenoah3@gmail.com",
 "current_datetime": "2025-01-30T09:30:00Z",
-"github_url": "https://github.com/yourusername/your-repo"
+"github_url": "https://github.com/adetola-dotbat"
 }
-
-Example Usage
-
-Using cURL:
-
-curl -X GET http://127.0.0.1:8000/api/info
-
-Using Postman or a browser:
-
-Open http://127.0.0.1:8000/api/info in your browser.
-
-Hire PHP Developers
 
 Looking for skilled PHP developers? Check out:
