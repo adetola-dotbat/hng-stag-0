@@ -18,7 +18,7 @@ Installation Steps
 
 ### Clone the repository
 
-[git clone https://github.com/yourusername/your-repo.git](https://github.com/adetola-dotbat/hng-stag-0)
+git clone https://github.com/adetola-dotbat/hng-stag-0
 
 ### Navigate into the project directory
 
@@ -46,9 +46,9 @@ GET /api/info
 Response Format (200 OK)
 
 {
-"email": "your-email@example.com",
+"email": "adewolenoah3@gmail.com",
 "current_datetime": "2025-01-30T09:30:00Z",
-"github_url": "https://github.com/yourusername/your-repo"
+"github_url": "https://github.com/adetola-dotbat"
 }
 
 Example Usage
@@ -63,4 +63,4 @@ Open http://127.0.0.1:8000/api/info in your browser.
 
 Hire PHP Developers
 
-Looking for skilled PHP developers? Check out: - [Skilled Laravel Developer][(https://laravel.com/docs/routing](https://hng.tech/hire/php-developers)).
+Looking for skilled PHP developers? Check out: - [Skilled Laravel Developer](https://hng.tech/hire/php-developers)).
