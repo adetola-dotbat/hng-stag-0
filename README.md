@@ -48,7 +48,7 @@ Response Format (200 OK)
 
 {
 "email": "adewolenoah3@gmail.com",
-"current_datetime": "2025-01-30T09:30:00Z",
+"current_datetime": "2025-01-31T04:27:08+00:00",
 "github_url": "https://github.com/adetola-dotbat"
 }
 
