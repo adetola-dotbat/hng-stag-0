@@ -63,4 +63,4 @@ Open http://127.0.0.1:8000/api/info in your browser.
 
 Hire PHP Developers
 
-Looking for skilled PHP developers? Check out:
+Looking for skilled PHP developers? Check out: - [Skilled Laravel Developer][(https://laravel.com/docs/routing](https://hng.tech/hire/php-developers)).
