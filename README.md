@@ -16,23 +16,23 @@ Laravel 10+
 
 Installation Steps
 
-# Clone the repository
+### Clone the repository
 
 git clone https://github.com/adetola-dotbat/hng-stag-0
 
-# Navigate into the project directory
+### Navigate into the project directory
 
 cd your-repo
 
-# Install dependencies
+### Install dependencies
 
 composer install
 
-# Start the Laravel development server
+### Start the Laravel development server
 
 php artisan serve
 
-The API will be available at:
+## The API will be available at:
 
 http://127.0.0.1:8000/api/info
 
@@ -52,4 +52,4 @@ Response Format (200 OK)
 "github_url": "https://github.com/adetola-dotbat"
 }
 
-Looking for skilled PHP developers? Check out:
+Looking for skilled PHP developers? Check out: - [Skilled Laravel Developer](https://hng.tech/hire/php-developers)).
